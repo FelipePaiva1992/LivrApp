@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
             editor.putBoolean("JAINSERIU", true);
             editor.commit();
         }
-        
+
         List<Livro> livros = dao.getAll();
 
         for(Livro l:livros){
