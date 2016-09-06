@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LivrApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="hint_login">Informe seu login</string>
+    <string name="hint_senha">Informe sua senha</string>
+    <string name="manter_logado">manter conectado</string>
+    <string name="botao_login">Entrar</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
